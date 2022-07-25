@@ -1,0 +1,4 @@
+dimensionaltrees:
+  invalid-material: "§cImpossible de développer l'arbre. Un matériau invalide a été détecté."
+  reloaded: "§aDimensionalTrees a été rechargé."
+  error: "erreur"
